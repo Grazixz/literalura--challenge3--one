@@ -10,7 +10,7 @@ Este projeto faz parte do programa **Oracle Next Education (ONE)** em parceria c
 ✅ Spring Boot  
 ✅ JPA + Hibernate  
 ✅ PostgreSQL  
-✅ Gson – para manipulação de JSON  
+✅ Jackson – para manipulação de JSON  
 🌐 [Gutendex API](https://gutendex.com/) – para buscar os livros e autores  
 
 ---
