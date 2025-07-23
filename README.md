@@ -37,6 +37,15 @@ Durante o desenvolvimento, foram reforçados conceitos como:
 - Boas práticas de POO e organização de código
 
 ---
+---
 
+## ▹ Como executar
+
+1. Clone o repositório:
+   
+   ```bash
+   git clone https://github.com/Grazixz/literalura--challenge3--one
+
+⚠️OBS: Precisa modificar o arquivo **properties**, para configurar seu próprio banco de dados(ex: postgresql), modifique as informações que tem no inicio **"spring.datasource...="**.
 
 ---
